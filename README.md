@@ -10,6 +10,10 @@
 <li>Vite
 <li>Socket.io
 <li>Scss/Sass
+ 
+ <h1> About the application: </h1>
+ 
+ DoWhile é um chat em tempo real onde usuários podem compartilhar expectativas sobre o evento.
 
 <h1> How to install: </h1>
 
